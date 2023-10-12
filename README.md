@@ -1,4 +1,4 @@
-<p align="center">Resolvo problemas, crio soluções para problemas e amo um desafio! Sou <strong>Desenvolvedor full stack</strong>.;
+<p align="center">Desenvolvo, crio soluções para problemas e amo um desafio! Sou <strong>Desenvolvedor full stack</strong>.;
 
 <div  align="center" style="margin-bottom:100px">
 
