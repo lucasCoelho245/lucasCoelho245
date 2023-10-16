@@ -1,4 +1,4 @@
-<p align="center">Desenvolvo, crio soluções para problemas e amo um desafio! Sou <strong>Desenvolvedor full stack</strong>.
+<p align="center">Desenvolvedor Full Stack | <strong>Especialista em Anugular & Typescript</strong> | Solucionador de Desafios.
 
 <div  align="center" style="margin-bottom:100px">
 
