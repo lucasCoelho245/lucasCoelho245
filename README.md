@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
 <p align="center">Desenvolvedor Full Stack | <strong>Especialista em Anugular & Typescript</strong> | Solucionador de Desafios.
 
 <div  align="center" style="margin-bottom:100px">
