@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://cdn.discordapp.com/attachments/450720399592914984/1173993478812872777/Imagem_do_WhatsApp_de_2023-11-14_as_11.23.38_6a30e12c.jpg?ex=6565f9a1&is=655384a1&hm=ba0dd0be5f2737e2443d8f4af035691725d7586a033756ce654e803ee021d524&"/>
 
 <p align="center">Desenvolvedor Full Stack | <strong>Especialista em Anugular & Typescript</strong> | Solucionador de Desafios.
 
